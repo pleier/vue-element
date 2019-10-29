@@ -2,7 +2,7 @@
   "name": "vue-element",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "yanglei <yanglei@gdwstech.com>",
+  "author": "pleier <pleiyang@outlook.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
